@@ -18,12 +18,13 @@
 <resources>
     <color name="photo_placeholder">#ccc</color>
 
-    <color name="articleBody">#000</color>
-    <color name="articleTitle">#FF0000</color>
+    <color name="articleTitle">#A61414</color>
     <color name="articleSubTitle">#000</color>
+    <color name="articleBody">#000</color>
+    <color name="articleLink">#A61414</color>
 
     <color name="colorPrimary">#000</color>
     <color name="colorPrimaryDark">#000</color>
-    <color name="colorAccent">#FF0000</color>
+    <color name="colorAccent">#F24822</color>
 
 </resources>
