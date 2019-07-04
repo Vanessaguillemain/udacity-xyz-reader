@@ -18,28 +18,13 @@
 <resources>
     <color name="photo_placeholder">#ccc</color>
 
-    <color name="articleTitle">#A61414</color>
-    <color name="articleSubTitle">#000</color>
-    <color name="articleBody">#000</color>
-    <color name="articleLink">#A61414</color>
-
-    <color name="colorPrimary">#000</color>
-    <color name="colorPrimaryDark">#000</color>
-    <color name="colorAccent">#F24822</color>
-
-    <color name="orange_500">#FF5722</color>
-    <color name="orange_700">#E64A19</color>
-
-    <color name="grey_500">#9E9E9E</color>
-    <color name="grey_700">#616161</color>
+    <color name="colorPrimary">@color/blue_gray_500</color>
+    <color name="colorPrimaryDark">@color/blue_gray_700</color>
+    <color name="colorAccent">@color/orange_A200</color>
 
     <color name="orange_A200">#FF6E40</color>
 
-    <color name="deep_purple_500">#673AB7</color>
-    <color name="deep_purple_700">#512DA8</color>
-    <color name="deep_purple_A200">#7C4DFF</color>
-
-    <color name="brown_500">#795548</color>
-    <color name="brown_700">#5D4037</color>
+    <color name="blue_gray_500">#607D8B</color>
+    <color name="blue_gray_700">#455A64</color>
 
 </resources>
