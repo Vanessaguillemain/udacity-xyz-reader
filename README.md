@@ -26,11 +26,11 @@ You can also refer to the [Material Design specification.](http://www.google.com
 
 | Main screen      |     Detailed screen    |   
 | :---------------------- | ------------------------: | 
-| ![Main screen before](https://raw.github.com/Vanessaguillemain/udacity-xyz-reader/screenshots/screeshots/before_1.png?raw=true)      |  ![Detailed screen before](https://raw.github.com/Vanessaguillemain/udacity-xyz-reader/screenshots/screeshots/before_2.png?raw=true)      | 
+| ![Main screen before](https://raw.github.com/Vanessaguillemain/udacity-xyz-reader/screenshots/screenshots/before_1.png?raw=true)      |  ![Detailed screen before](https://raw.github.com/Vanessaguillemain/udacity-xyz-reader/screenshots/screenshots/before_2.png?raw=true)      | 
 
 ## Screenshots app after exercise
 
 | Main screen      |     Detailed screen    |   
 | :---------------------- | ------------------------: | 
-| ![Main screen after](https://raw.github.com/Vanessaguillemain/udacity-xyz-reader/screenshots/screeshots/after_1.png?raw=true)      |  ![Detailed screen after](https://raw.github.com/Vanessaguillemain/udacity-xyz-reader/screenshots/screeshots/after_2.png?raw=true)      | 
+| ![Main screen after](../<screenshots>/screenshots/after_1.png?raw=true)      |  ![Detailed screen after](../<screenshots>/screenshots/screenshots/after_2.png?raw=true)      | 
 
