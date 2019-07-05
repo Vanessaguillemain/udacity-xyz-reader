@@ -32,5 +32,5 @@ You can also refer to the [Material Design specification.](http://www.google.com
 
 | Main screen      |     Detailed screen    |   
 | :---------------------- | ------------------------: | 
-| ![Main screen after](https://raw.github.com/Vanessaguillemain/udacity-xyz-reader/screenshots/screenshots/after_1.png?raw=true)      |  ![Detailed screen after](https://raw.github.com/Vanessaguillemain/udacity-xyz-reader/screenshots/screenshots/screenshots/after_2.png?raw=true)      | 
+| ![Main screen after](https://raw.github.com/Vanessaguillemain/udacity-xyz-reader/screenshots/screenshots/after_1.png?raw=true)      |  ![Detailed screen after](https://raw.github.com/Vanessaguillemain/udacity-xyz-reader/screenshots/screenshots/after_2.png?raw=true)      | 
 
