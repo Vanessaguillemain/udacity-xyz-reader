@@ -26,11 +26,11 @@ You can also refer to the [Material Design specification.](http://www.google.com
 
 | Main screen      |     Detailed screen    |   
 | :---------------------- | ------------------------: | 
-| ![Main screen before](<screenshots>/screeshots/before_1.png?raw=true)      |  ![Detailed screen before](<screenshots>/screeshots/before_2.png?raw=true)      | 
+| ![Main screen before](./<screenshots>/screeshots/before_1.png?raw=true)      |  ![Detailed screen before](./<screenshots>/screeshots/before_2.png?raw=true)      | 
 
 ## Screenshots app after exercise
 
 | Main screen      |     Detailed screen    |   
 | :---------------------- | ------------------------: | 
-| ![Main screen after](<screenshots>/screeshots/after_1.png?raw=true)      |  ![Detailed screen after](<screenshots>/screeshots/after_2.png?raw=true)      | 
+| ![Main screen after](./<screenshots>/screeshots/after_1.png?raw=true)      |  ![Detailed screen after](./<screenshots>/screeshots/after_2.png?raw=true)      | 
 
